@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+    --color:  #FFFFFF;
+    --color1: #A15488;
+    --color2: #D8B8D9;
+    --color3: #4E1E50;
+}
+
+.principal{
+    color: var(--color3);
+
+}
+
